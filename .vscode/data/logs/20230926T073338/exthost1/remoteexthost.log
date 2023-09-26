@@ -1,0 +1,3 @@
+2023-09-26 07:34:50.837 [error] Error: command 'undefined' not found
+    at e.$Zvb.k (https://theia-workspaces-ws-nt6kd.us10.trial.applicationstudio.cloud.sap/oss-4759edfc4c2499f7fad60d551b09d853cc410e4d/static/out/vs/workbench/workbench.web.main.js:1378:13011)
+    at e.$Zvb.executeCommand (https://theia-workspaces-ws-nt6kd.us10.trial.applicationstudio.cloud.sap/oss-4759edfc4c2499f7fad60d551b09d853cc410e4d/static/out/vs/workbench/workbench.web.main.js:1378:12940)
